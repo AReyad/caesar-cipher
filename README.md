@@ -4,7 +4,7 @@ An encryption tool based on the [Caesar cipher](https://en.wikipedia.org/wiki/Ca
 
 ## About
 
-This project is part of the Ruby on Rails path of [The Odin Project](https://www.theodinproject.com/lessons/ruby-caesar-cipher/) curriculum.
+This project is part of the Ruby Progamming lessons of [The Odin Project](https://www.theodinproject.com/lessons/ruby-caesar-cipher/) curriculum.
 
 ## Features
 
